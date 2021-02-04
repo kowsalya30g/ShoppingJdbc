@@ -155,8 +155,7 @@ public class Shopping {
 
 		return 0;
 	}
-
-	
+System.out.println("add");	
 	
 
 }
